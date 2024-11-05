@@ -20,7 +20,6 @@ yarn-error.log*
 .eslintcache
 
 # dotenv environment variables file
-.env
 
 # Testing
 coverage
@@ -32,3 +31,4 @@ typechain-types
 
 # Hardhat files
 cache
+config.bat
